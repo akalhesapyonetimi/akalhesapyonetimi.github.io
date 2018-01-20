@@ -1,0 +1,42 @@
+body {
+
+    font-family: Roboto, monospace, sans-serif
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #339966;
+
+}
+
+p1 {
+
+	font-size: 90px;
+	color: #003300;
+
+}
+
+p2 {
+
+	font-size: 90px;
+	color: #003300;
+
+}
+
+p3 {
+
+	font-size: 90px;
+	font-weight: lighter;
+	font-family: monospace;
+	color: #003300;
+
+}
+
+p4 {
+
+	font-size: 90px;
+	font-weight: lighter;
+	font-family: monospace;
+	color: #003300;
+	
+}
